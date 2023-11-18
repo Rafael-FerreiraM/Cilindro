@@ -1,0 +1,16 @@
+C:\Users\RafaelFerreira\source\repos\Cilindro\bin\Debug\net5.0\Cilindro.exe
+C:\Users\RafaelFerreira\source\repos\Cilindro\bin\Debug\net5.0\Cilindro.deps.json
+C:\Users\RafaelFerreira\source\repos\Cilindro\bin\Debug\net5.0\Cilindro.runtimeconfig.json
+C:\Users\RafaelFerreira\source\repos\Cilindro\bin\Debug\net5.0\Cilindro.runtimeconfig.dev.json
+C:\Users\RafaelFerreira\source\repos\Cilindro\bin\Debug\net5.0\Cilindro.dll
+C:\Users\RafaelFerreira\source\repos\Cilindro\bin\Debug\net5.0\ref\Cilindro.dll
+C:\Users\RafaelFerreira\source\repos\Cilindro\bin\Debug\net5.0\Cilindro.pdb
+C:\Users\RafaelFerreira\source\repos\Cilindro\obj\Debug\net5.0\Cilindro.csproj.AssemblyReference.cache
+C:\Users\RafaelFerreira\source\repos\Cilindro\obj\Debug\net5.0\Cilindro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RafaelFerreira\source\repos\Cilindro\obj\Debug\net5.0\Cilindro.AssemblyInfoInputs.cache
+C:\Users\RafaelFerreira\source\repos\Cilindro\obj\Debug\net5.0\Cilindro.AssemblyInfo.cs
+C:\Users\RafaelFerreira\source\repos\Cilindro\obj\Debug\net5.0\Cilindro.csproj.CoreCompileInputs.cache
+C:\Users\RafaelFerreira\source\repos\Cilindro\obj\Debug\net5.0\Cilindro.dll
+C:\Users\RafaelFerreira\source\repos\Cilindro\obj\Debug\net5.0\ref\Cilindro.dll
+C:\Users\RafaelFerreira\source\repos\Cilindro\obj\Debug\net5.0\Cilindro.pdb
+C:\Users\RafaelFerreira\source\repos\Cilindro\obj\Debug\net5.0\Cilindro.genruntimeconfig.cache
